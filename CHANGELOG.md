@@ -1,3 +1,10 @@
+## 1.3.0
+
+- Updated the `Interface` version for _Retail_ to `120005` (Midnight, 12.x).
+- Added the `Interface` version `20505` for _Burning Crusade Classic Anniversary_ (2.5.5).
+- Updated the `Interface` version for _Classic Era_ to `11508`.
+- Dropped the discontinued Wrath (`30403`) and Cataclysm (`40400`) progression clients.
+
 ## 1.2.3
 
 - Fixed `GetAddOnMetadata` for 11.02
